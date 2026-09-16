@@ -14,3 +14,9 @@ I am learning Git commands, branches, commits, merging, GitFlow, and GitHub work
 
 I am also learning how GitHub Actions can be used to automate development workflows.
 
+\## Release v1.0.0
+
+
+
+This release contains the initial GitFlow workflow implementation.
+
