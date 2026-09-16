@@ -103,4 +103,7 @@ Current release: `v1.0.0`
 
 
 The goal of this project is to understand how Git and GitHub are used in a real software development workflow, including branching, merging, versioning, releases, and automation with GitHub Actions.
+## Release v1.1.0
+
+This release includes the updated GitFlow learning workflow and README documentation.
 
